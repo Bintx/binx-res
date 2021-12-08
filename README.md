@@ -1,0 +1,2 @@
+# binx-res
+resolusi
